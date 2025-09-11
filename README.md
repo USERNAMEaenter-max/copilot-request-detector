@@ -1,5 +1,7 @@
 # Copilot Request Detector
 
+![alt text](image.png)
+
 This is a simple Flask-based server designed to help you detect whether GitHub Copilot (or any other automated tool) sends HTTP requests to a given URL. It logs incoming requests with the client's IP address and timestamp.
 
 ## 🧠 Purpose
