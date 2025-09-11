@@ -11,6 +11,13 @@ You can use this server to:
 
 ## 🚀 How to Deploy on GitHub Codespaces
 
+```
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python app.py
+```
+
 1. **Create a GitHub repository** and name it `copilot-request-detector`.
 2. **Add the following files**:
    - `app.py` (see below)
